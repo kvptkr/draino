@@ -7,6 +7,6 @@ entries:
     digest: bb942315a2a12268f376f4c7bb3fe42efd4e61099b12e49017771657921f18ca
     name: draino
     urls:
-    - http://autonomic.ai/draino/helm/draino/draino-0.1.0.tgz
+    - https://kvptkr.github.io/draino/helm/draino/draino-0.1.0.tgz
     version: 0.1.0
 generated: 2019-11-08T13:57:17.329628438-05:00
